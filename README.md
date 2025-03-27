@@ -3,8 +3,8 @@
 ## 🌍 About Me  
 Hello! I'm Enes Ataşever, a passionate software developer who enjoys learning new technologies and building cool projects.  
 
-- 🚀 **Interests:** Web Development, Mobile Apps, Open Source  
-- 💻 **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, C#, Python, Flutter  
+- 🚀 **Interests:** AI Applications, Mobile Apps, Mobile Games 
+- 💻 **Tech Stack:** HTML, CSS, C#, Python, Flutter  
 - 📧 **Contact Me:**  
   <a href="https://www.linkedin.com/in/enes-atasever-44398a238/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
