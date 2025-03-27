@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Enes
 
-<!--
-**enesatasever09/enesatasever09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 About Me  
+Hello! I'm Enes Ataşever, a passionate software developer who enjoys learning new technologies and building cool projects.  
 
-Here are some ideas to get you started:
+- 🚀 **Interests:** Web Development, Mobile Apps, Open Source  
+- 💻 **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, C#, Python, Flutter  
+- 📧 **Contact Me:**  
+  <a href="https://www.linkedin.com/in/enes-atasever-44398a238/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/enessatasever/?igsh=MWRidTFlMmltYnh1aQ%3D%3D#" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Languages and Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesatasever09&show_icons=true&theme=radical)  
+
+---
+
+### 🎯 Visitor Counter  
+![Visitor Count](https://komarev.com/ghpvc/?username=enesatasever09&color=blue)  
