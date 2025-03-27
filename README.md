@@ -30,6 +30,9 @@ Hello! I'm Enes Ataşever, a passionate software developer who enjoys learning n
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enesatasever09&show_icons=true&theme=radical)  
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
+
 ---
 
 ### 🎯 Visitor Counter  
