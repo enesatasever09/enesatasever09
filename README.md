@@ -10,8 +10,9 @@ Hello! I'm Enes Ataşever, a passionate software developer who enjoys learning n
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/enessatasever/?igsh=MWRidTFlMmltYnh1aQ%3D%3D#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
-  </a>  
+    <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia26_83061.png" alt="Instagram" width="40" height="40"/>
+  </a>
+
 
 ---
 
