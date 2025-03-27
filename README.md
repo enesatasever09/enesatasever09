@@ -34,3 +34,7 @@ Hello! I'm Enes Ataşever, a passionate software developer who enjoys learning n
 
 ### 🎯 Visitor Counter  
 ![Visitor Count](https://komarev.com/ghpvc/?username=enesatasever09&color=blue)  
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
