@@ -25,6 +25,8 @@ Hello! I'm Enes Ataşever, a passionate software developer who enjoys learning n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ---
 
 ### 📊 GitHub Stats  
@@ -40,4 +42,3 @@ Hello! I'm Enes Ataşever, a passionate software developer who enjoys learning n
 
 <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="500"/>
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
